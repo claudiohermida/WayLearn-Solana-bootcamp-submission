@@ -5,7 +5,7 @@ This program manages a virtual deposit of bowling shoes on the Solana blockchain
 *(Note: While Anchor allows you to create separate PDA accounts for every individual item, this program is designed to use a single PDA `BowlingShoeDeposit` account that manages an internal `Vec<Shoe>` struct, ensuring all shoe records stay closely grouped under one deposit.)*
 
 ### Note: 
-This porgram has been tested on Solana playground and deployed on devnet.
+This program has been tested on Solana playground and deployed on devnet.
 
 ---
 
